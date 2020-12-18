@@ -2,7 +2,7 @@
 
 To download this project:
 
-$ git clone https://github.com/eoinco/nci
+$ git clone https://github.com/VishalTalatii/blockchain_project
 
 To install the dependencies (web3, express, etc):
 
